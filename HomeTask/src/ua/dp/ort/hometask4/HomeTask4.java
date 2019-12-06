@@ -120,7 +120,9 @@ public class HomeTask4 {
 	    int nullTest = 0;
 	    System.out.println(Integer.toBinaryString(red) + "_"+ Integer.toBinaryString(green) + "_"+ Integer.toBinaryString(blue) + "_"+ Integer.toBinaryString(transparent));
         
+	    System.out.println("------------------------------------------------------------"); 
 	    System.out.println("------------------------------------------------------------");   
+
 	}
 
 }

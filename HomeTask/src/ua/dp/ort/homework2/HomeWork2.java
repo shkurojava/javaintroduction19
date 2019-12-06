@@ -5,6 +5,7 @@ public class HomeWork2 {
 	public static void main(String[] args) {
         System.out.println("Home work is almost done");
         System.out.println("Home work is done");
+        System.out.println("Home work is done");
 	}
 
 }
