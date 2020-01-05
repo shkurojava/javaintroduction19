@@ -17,13 +17,13 @@ public class HomeWork5Task2 {
 		int b = Integer.parseInt(userInput);
 		
 		if (a == b) {
-			System.out.println("числа равны");
+			System.out.println("numbers are equal");
 		} else if (a != b) {
 			
 			if (a > b) {
-				System.out.println("числа не равны и a > b");
+				System.out.println("numbers are not equal and a > b");
 			} else {
-				System.out.println("числа не равны и a < b");
+				System.out.println("numbers are not equal and a < b");
 			}
 		}
 	}

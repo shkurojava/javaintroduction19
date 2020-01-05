@@ -18,10 +18,10 @@ public class ClassWork {
 		
 		Scanner scanner = new Scanner(System.in);
 		String userInput;
-		System.out.println("Введите Ваше имя ");
+		System.out.println("You name  ");
 		userInput = scanner.nextLine();
 //		System.out.println("You name is " + userInput);
-		System.out.println("Введите Ваш возраст ");
+		System.out.println("You are age ");
 		userInput = scanner.nextLine();
 		int age = Integer.parseInt(userInput);
 //		System.out.println("You age is " + age);
