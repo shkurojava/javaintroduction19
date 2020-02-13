@@ -8,10 +8,10 @@ public class Certification {
 		Scanner scanner = new Scanner (System.in);
 		
 		System.out.println("Enter a character to display ");
-		char character = scanner.next().charAt(0);
+		char character = scanner.next().charAt(0);		
 		
 		System.out.println("Enter the horizontal amount ");
-		int horizontal = scanner.nextInt();
+		int horizontal = scanner.nextInt();		
 		
 		System.out.println("Enter the vertical amount ");
 		int vertical = scanner.nextInt();
